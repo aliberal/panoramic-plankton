@@ -1,6 +1,6 @@
 title: Azimuth
 baseurl: /
-permalink: '/:title/'
+#permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
